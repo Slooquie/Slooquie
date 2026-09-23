@@ -1,8 +1,8 @@
 # Hi, I'm Ian 👋
 
-I'm interested in robotics, AI, control systems, aerospace, and the space where software meets hardware.
+I'm interested in robotics, AI, control systems, and building with both hardware and software.
 
-I enjoy learning by building and exploring ideas across engineering and computer science.
+I also enjoy the logistics of bringing projects and events together, and I'm interested in business and entrepreneurship.
 
 ### GitHub activity
 
