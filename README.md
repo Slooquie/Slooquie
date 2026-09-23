@@ -7,8 +7,8 @@ I also enjoy the logistics of bringing projects and events together, and I'm int
 ### GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=github-dark-blue&amp;hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak for Slooquie" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=github-dark-blue&amp;hide_border=true&amp;v=20260922-private" />
+  <img src="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=default&amp;hide_border=true&amp;v=20260922-private" alt="GitHub contribution streak for Slooquie" />
 </picture>
 
 <picture>
