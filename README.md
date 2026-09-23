@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ian 👋
 
-<!--
-**Slooquie/Slooquie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in robotics, AI, control systems, aerospace, and the space where software meets hardware.
 
-Here are some ideas to get you started:
+I enjoy learning by building and exploring ideas across engineering and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=github-dark-blue&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Slooquie&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak for Slooquie" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Slooquie&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;hide=html,css" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Slooquie&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;hide=html,css" alt="Most used programming languages in my public GitHub repositories" />
+</picture>
